@@ -1,3 +1,7 @@
+// Stephen Mc Glynn
+// Advanced Algorithms and Data Structures
+// LRU Cache
+
 import java.util.HashMap;
 
 class LRUCache {
@@ -130,4 +134,5 @@ class LRUCache {
         lruCache.put(5, 103455);
         lruCache.printCache();
     }
+
 }
